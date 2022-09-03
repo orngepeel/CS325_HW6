@@ -10,5 +10,5 @@ Given a 2-D puzzle of size MxN, that has N rows and M column (M and N can be dif
 - R: move to right cell from the current cell 
 - U: move to upper cell from the current cell 
 - D: move to the lower cell from the current cell
-returns the path from (a,b) to (x,y).
-Utilizes BFS to find the shortest path.
+
+The function utilizes BFS to return the path from (a,b) to (x,y) in the format of a list of tuples.
